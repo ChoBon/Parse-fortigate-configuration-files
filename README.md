@@ -13,7 +13,8 @@ Usage:
 Where fortigate_config_file is a configuration file, and
       output_nested_html_file, a nested-table html file in name you specified, and
       output_isolated_html_file, an isolated-table html file in name you specified.
-      
+The input and output files are also located in the same directory as the scripts.
+
 e.g.
 
 ./forti_cfg_parser.sh cfg1.txt cfg1-nested.html cfg1-isolated.html
