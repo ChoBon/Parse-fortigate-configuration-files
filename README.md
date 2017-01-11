@@ -15,6 +15,7 @@ Where fortigate_config_file is a configuration file, and
       output_isolated_html_file, an isolated-table html file in name you specified.
       
 e.g.
+
 ./forti_cfg_parser.sh cfg1.txt cfg1-nested.html cfg1-isolated.html
 This command will take file "cfg1.txt"  as an input and output two files cfg1-nested.html and cfg1-isolated.html in nested-tables html and isolated-tables html format respectively.
 
