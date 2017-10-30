@@ -2,7 +2,7 @@
 
 ======================
 2017/10/30
-a new gz file "New-forti-parser.tar.gz" is uploaded since the previous gz file included a crashed sh file.
+a new gz file "New-forti-parser.tar.gz" is uploaded since the previous gz file included a corrupted sh file.
 ======================
 Parse fortigate configuration files into two types of html files, nested and isolated ones.
 
