@@ -1,4 +1,8 @@
 # Parse-fortigate-configuration-files
+======================
+2017/10/30
+a new gz file "New-forti-parser.tar.gz" is uploaded since the previous gz file included a crashed sh file.
+======================
 Parse fortigate configuration files into two types of html files, nested and isolated ones.
 
 This is a shell-script version and verified under CentOS release 6.6 (Final).
